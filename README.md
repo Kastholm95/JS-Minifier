@@ -1,10 +1,10 @@
 # Marc - i have made a quick access simplified version of this program in minify.js
 ## Using Node to minify and syntax check
 1. Install Node.js from the internet
-2. run command 'npm install -g terser'
-3. Run command in terminal fx example "node minifyjs.js test.js"
+3. run command 'npm i'
+4. run command 'npm i -g terser'
+5. Run command in terminal fx example "node minifyjs.js test.js"
     - Using the program minifyjs.js to minify test.js into minified_files/test.min.js
-
 
 # Martins minify programs is located in ./other_scripts, they provide a bit more security and uses more libs to syntax check
 
