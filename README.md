@@ -6,7 +6,7 @@
     - Using the program minifyjs.js to minify test.js into minified_files/test.min.js
 
 
-# Martins minify programs is located in other_scripts, they provide a bit more security and more libs to syntax check
+# Martins minify programs is located in ./other_scripts, they provide a bit more security and uses more libs to syntax check
 
 ## Reqirements to those:
     1 Reccomended Acorn (pre parsing)
